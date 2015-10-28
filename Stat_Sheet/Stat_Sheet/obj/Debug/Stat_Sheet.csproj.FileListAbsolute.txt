@@ -1,0 +1,10 @@
+c:\users\rasmus\documents\visual studio 2015\Projects\Stat_Sheet\Stat_Sheet\obj\Debug\Stat_Sheet.csprojResolveAssemblyReference.cache
+c:\users\rasmus\documents\visual studio 2015\Projects\Stat_Sheet\Stat_Sheet\obj\Debug\Stat_Sheet.Properties.Resources.resources
+c:\users\rasmus\documents\visual studio 2015\Projects\Stat_Sheet\Stat_Sheet\obj\Debug\Stat_Sheet.csproj.GenerateResource.Cache
+c:\users\rasmus\documents\visual studio 2015\Projects\Stat_Sheet\Stat_Sheet\obj\Debug\Stat_Sheet.Form1.resources
+c:\users\rasmus\documents\visual studio 2015\Projects\Stat_Sheet\Stat_Sheet\bin\Debug\Sheet creator.exe.config
+c:\users\rasmus\documents\visual studio 2015\Projects\Stat_Sheet\Stat_Sheet\bin\Debug\Sheet creator.exe
+c:\users\rasmus\documents\visual studio 2015\Projects\Stat_Sheet\Stat_Sheet\bin\Debug\Sheet creator.pdb
+c:\users\rasmus\documents\visual studio 2015\Projects\Stat_Sheet\Stat_Sheet\obj\Debug\Sheet creator.exe
+c:\users\rasmus\documents\visual studio 2015\Projects\Stat_Sheet\Stat_Sheet\obj\Debug\Sheet creator.pdb
+C:\Users\Rasmus\Documents\Visual Studio 2015\Projects\Stat_Sheet\Stat_Sheet\obj\Debug\Stat_Sheet.Form2.resources
